@@ -31,27 +31,6 @@
 ---
 
 <!-- About Me Section -->
-## 👨‍💻 About Me
-
-```yaml
-name: Shivang Tanwar
-location: Gurugram, India 🇮🇳
-role: DevOps Engineer & Cloud Architect
-education: B.Tech CSE @ BMU (2023-2027)
-currently_learning: ["Terraform", "GitOps", "SRE Practices"]
-availability: Open for freelance & full-time opportunities
-rate: "$25/hr | 30+ hrs/week"
-
-fun_facts:
-  - ☕ Coffee consumption: ∞
-  - 😴 Sleep: null
-  - 🐧 Favorite OS: Linux (btw I use Arch)
-  - 🎯 Mission: Automate ALL the things!
-```
-
-<table>
-<tr>
-<td width="50%">
 
 ### 🎯 What I Do
 
@@ -190,7 +169,7 @@ fun_facts:
 **Tech Stack:**
 `Linux Admin` `API Integration` `Build Automation` `Web Hosting` `Provisioning`
 
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parenthost.com)
 
 </td>
 <td width="50%">
@@ -262,26 +241,6 @@ shivang@portfolio:~$ neofetch
 
 <div align="center">
 
-<p>
-<a href="https://shivang.me">
-  <img src="https://img.shields.io/badge/Portfolio-shivang.me-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/shivangtanwar">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/shivangtanwar">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://twitter.com/shivangtanwar">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://www.upwork.com/freelancers/shivangtanwar">
-  <img src="https://img.shields.io/badge/Upwork-Hire_Me-14a800?style=for-the-badge&logo=upwork&logoColor=white"/>
-</a>
-</p>
-
-<br/>
-
 ### 💬 Ask me about
 `DevOps` `CI/CD` `Docker` `Kubernetes` `AWS` `Linux` `Automation` `Cloud Architecture`
 
@@ -296,6 +255,8 @@ shivang@portfolio:~$ neofetch
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
+
+<br/>
 
 ---
 
