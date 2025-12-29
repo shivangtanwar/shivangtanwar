@@ -13,7 +13,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=shivangtanwar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
     <a href="https://wakatime.com/@shivangtanwar">
-      <img src="https://wakatime.com/badge/user/shivangtanwar.svg?style=for-the-badge" alt="WakaTime" />
+      <img src="https://wakatime.com/badge/user/b466d76f-80f6-4491-884a-118fa33e873d.svg?style=for-the-badge" alt="WakaTime" />
     </a>
     <img src="https://img.shields.io/github/followers/shivangtanwar?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   </p>
